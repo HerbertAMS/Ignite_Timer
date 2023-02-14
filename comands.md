@@ -8,3 +8,4 @@ npx eslint src --ext .ts,.tsx
 
 npm i react-router-dom
 npm i phosphor-react
+npm i react-hook-form
